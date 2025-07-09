@@ -1,8 +1,4 @@
----
-output: github_document
----
-
-## On-the-fly hexbin computation
+# sc_UBA_Hex: On-the-fly hexbin computation
 
 The package now computes hexagonal binning on-the-fly for any supported single-cell object using the new generic **get_hexbin_info()**. Highlights:
 
